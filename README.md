@@ -10,6 +10,12 @@
 - 📫 How to reach me Phone # 0317-0317619 Email:waqaryounus3030@gmail.com
 - ⚡ Fun fact: Coding...
 
+- Languages and Tools:
+- Flutter
+- Dart
+- Phython
+- C++
+
 <!---
 Waqar3030/Waqar3030 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
